@@ -61,3 +61,10 @@ Instalar dependencias
 
 Proximaas mejoras:
 Agregar nuevas funciones al sistema tales como buscar recursos por nombre autor o fecha del recurso, organizar recursos por fechas autores y genero, actualizar versiones de libros.
+
+Tipos de recursos:
+- Artículos académicos
+- Libros
+- Documentación técnica
+- Cursos
+- Tutoriales
