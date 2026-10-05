@@ -1,3 +1,5 @@
+### Agregado
+- Se incorporó documentación adicional: docs/fuentes_recomendadas.md y dos nuevos criterios de clasificación en docs/criterios.md.
 Estructura inicial de la primera version
 
 Estructura inicial
